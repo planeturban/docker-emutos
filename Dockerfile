@@ -1,4 +1,4 @@
-FROM ubuntu:artful
+FROM ubuntu
 
 RUN apt-get update && \
 	apt-get update && \
